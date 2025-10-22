@@ -1,0 +1,21 @@
+2025-07-29 19:52:56,739 - INFO - Server HTTP đã khởi chạy trên localhost:8080
+2025-07-29 19:52:58,343 - INFO - Đang trao đổi mã xác thực lấy access token...
+2025-07-29 19:52:59,392 - INFO - Access token đã được lưu thành công (access_token.json)
+2025-07-29 19:53:02,392 - INFO - Định danh máy: 20240810-6C2F-80B9-1568-6C2F80B9156C
+2025-07-29 19:53:02,395 - INFO - Thông tin người dùng đã được lưu (user.json)
+2025-07-29 19:53:03,799 - INFO - Kích hoạt license thành công (user info).
+2025-07-29 19:53:09,120 - INFO - License đã được đăng ký với membership level: silver
+2025-07-30 07:50:14,184 - INFO - Server HTTP đã khởi chạy trên localhost:8080
+2025-07-30 07:50:15,457 - INFO - Đang trao đổi mã xác thực lấy access token...
+2025-07-30 07:50:16,505 - INFO - Access token đã được lưu thành công (access_token.json)
+2025-07-30 07:50:19,674 - INFO - Định danh máy: 20240810-6C2F-80B9-1568-6C2F80B9156C
+2025-07-30 07:50:19,674 - INFO - Thông tin người dùng đã được lưu (user.json)
+2025-07-30 07:50:20,404 - INFO - Kích hoạt license thành công (user info).
+2025-07-30 07:50:24,109 - INFO - License đã được đăng ký với membership level: silver
+2025-08-02 14:31:37,120 - INFO - Server HTTP đã khởi chạy trên localhost:8080
+2025-08-02 14:31:38,410 - INFO - Đang trao đổi mã xác thực lấy access token...
+2025-08-02 14:31:39,326 - INFO - Access token đã được lưu thành công (access_token.json)
+2025-08-02 14:31:42,426 - INFO - Định danh máy: 20240810-6C2F-80B9-1568-6C2F80B9156C
+2025-08-02 14:31:42,426 - INFO - Thông tin người dùng đã được lưu (user.json)
+2025-08-02 14:31:43,241 - INFO - Kích hoạt license thành công (user info).
+2025-08-02 14:31:46,507 - INFO - License đã được đăng ký với membership level: silver
