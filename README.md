@@ -1,4 +1,4 @@
-# vnstock-news
+# Stock-news-extraction
 
 Utilities for crawling and processing Viet Nam stock market news. This package exposes
 both synchronous and asynchronous crawlers together with helpers for cleaning and
